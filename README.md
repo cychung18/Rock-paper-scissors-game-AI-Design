@@ -4,7 +4,7 @@ We proposed a Rock-paper-scissors game AI to play it with human, and it is able 
 Algorithm flow chart:
 Hand Detection -> Hand Tracking -> Gesture Recognition -> AI responds
 
-hist: Hand color histogram
+hist: Hand color histogram \\
 main.py: algortihm implementation
 cnn_model_keras2.h5: CNN model parameters
 stone.png, paper.png, scissor.png: hand gestures pictures
